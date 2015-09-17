@@ -1,0 +1,7 @@
+c:\users\nshrivastava\documents\visual studio 2013\Projects\NetezzaFileUpload\NetezzaFileUpload\bin\Debug\NetezzaFileUpload.exe.config
+c:\users\nshrivastava\documents\visual studio 2013\Projects\NetezzaFileUpload\NetezzaFileUpload\bin\Debug\NetezzaFileUpload.exe
+c:\users\nshrivastava\documents\visual studio 2013\Projects\NetezzaFileUpload\NetezzaFileUpload\bin\Debug\NetezzaFileUpload.pdb
+c:\users\nshrivastava\documents\visual studio 2013\Projects\NetezzaFileUpload\NetezzaFileUpload\bin\Debug\DevDefined.OAuth.dll
+c:\users\nshrivastava\documents\visual studio 2013\Projects\NetezzaFileUpload\NetezzaFileUpload\obj\Debug\NetezzaFileUpload.csprojResolveAssemblyReference.cache
+c:\users\nshrivastava\documents\visual studio 2013\Projects\NetezzaFileUpload\NetezzaFileUpload\obj\Debug\NetezzaFileUpload.exe
+c:\users\nshrivastava\documents\visual studio 2013\Projects\NetezzaFileUpload\NetezzaFileUpload\obj\Debug\NetezzaFileUpload.pdb
