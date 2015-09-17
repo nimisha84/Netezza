@@ -1,0 +1,11 @@
+c:\users\nshrivastava\documents\visual studio 2013\Projects\AWSTest1\AWSTest1\bin\Debug\AWSTest1.exe.config
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1\AWSTest1\bin\Debug\AWSTest1.exe
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1\AWSTest1\bin\Debug\AWSTest1.pdb
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1\AWSTest1\bin\Debug\AWSSDK.dll
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1\AWSTest1\bin\Debug\AWSSDK.pdb
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1\AWSTest1\obj\Debug\AWSTest1.csprojResolveAssemblyReference.cache
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1\AWSTest1\obj\Debug\AWSTest1.exe
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1\AWSTest1\obj\Debug\AWSTest1.pdb
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1 - Copy\AWSTest1\bin\Debug\AWSTest1.exe.config
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1 - Copy\AWSTest1\obj\Debug\AWSTest1.exe
+C:\Users\nshrivastava\Documents\Visual Studio 2013\Projects\AWSTest1 - Copy\AWSTest1\obj\Debug\AWSTest1.pdb
